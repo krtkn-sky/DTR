@@ -44,7 +44,7 @@ print("Tree Depth:", tree_depth)
 
 ## Tree plot
 
-
+file:///home/aakash/Downloads/decisiontree.png
 
 ## Stopping Criteria
 
