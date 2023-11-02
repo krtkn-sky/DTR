@@ -42,6 +42,10 @@ tree_depth = regressor.get_depth()
 print("Tree Depth:", tree_depth)
 ```
 
+## Tree plot
+
+
+
 ## Stopping Criteria
 
 ```python
@@ -76,11 +80,7 @@ To use this code, simply save it as a Python file (e.g. `decision_tree_regressio
 ## Example Output
 
 ```
-Feature Importance: [0.5 0.3 0.2]
-Tree Depth: 3
-Max Tree Depth (Stopping Criteria): 5
-Min Samples Split (Stopping Criteria): 2
-Min Samples Leaf (Stopping Criteria): 1
+Predicted Final Exam Score: [91.]
 ```
 
 ## Conclusion
