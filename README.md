@@ -44,7 +44,7 @@ print("Tree Depth:", tree_depth)
 
 ## Tree plot
 
-file:///home/aakash/Downloads/decisiontree.png
+![decisiontree](https://github.com/krtkn-sky/DTR/assets/121655285/9c97a4d8-54df-4608-9153-5549e22ad503)
 
 ## Stopping Criteria
 
